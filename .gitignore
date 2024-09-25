@@ -1,0 +1,2 @@
+#aqu van todos los ficheros, rutas, expresiones que no queremos terlo en cuenta
+#ejemplo:  **/ .DS_Store
